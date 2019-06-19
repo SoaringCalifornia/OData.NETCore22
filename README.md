@@ -11,4 +11,4 @@ Git https://github.com/SoaringCalifornia/OData.Angular
 
 Mockup data created with https://mockaroo.com
 
-xUnit used for unig testing.
+xUnit used for unit testing.
